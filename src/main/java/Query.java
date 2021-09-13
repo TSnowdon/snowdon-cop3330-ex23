@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+ *  UCF COP3330 Fall 2021 Assignment 23 Solution
+ *  Copyright 2021 Tyler Snowdon
+ */
 public class Query {
     private final String question;
     private final Query yes;
